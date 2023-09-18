@@ -9,7 +9,7 @@ electron-packager có rất nhiều options build khác các bạn có thể xem
 ## Các giao diện của Binary Dictionary:
 
 ### Tìm kiếm từ
-![image](https://github.com/Dia2001/binary-dict/assets/88370983/5289a95a-afac-45d0-a277-d021ffd0bdda)
+![image](https://github.com/Dia2001/binary-dict/assets/88370983/b9c55d0b-41c5-4269-bbb0-005509abd6fa)
 ![search-word-2](https://i.imgur.com/lsg904h.png)
 ![search-word-3](https://i.imgur.com/INRQbn1.png)
 ### Danh sách từ
